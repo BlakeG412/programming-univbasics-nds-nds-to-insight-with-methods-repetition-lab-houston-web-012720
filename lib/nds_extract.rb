@@ -41,7 +41,7 @@ def total_gross(source)
     i += 1
   end
 
-  total
+  return total
   # Write this implementation
   #
   # Should use methods:
